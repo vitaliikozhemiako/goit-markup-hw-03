@@ -55,17 +55,10 @@ letter-spacing: 0.03em;
 font-size: 14px;
 }
 
-header {
-    padding: 24px 0;
-}
-
-section {
-    padding-top: 94px;
-    padding-bottom: 94px;
-}
 
 .about {
-    padding-top: 0;
+    padding-top: 0px;
+    padding-bottom: 94px;
 }
 
 .logo {
@@ -157,7 +150,7 @@ margin-left: 93px;
 
 /* Hero */
 .hero {
-    padding: 200px;
+    padding: 200px 0px;
     background-color: #2F303A;
     text-align: center;
 }
@@ -178,6 +171,8 @@ margin-left: 93px;
 
 /* Features */ 
 .feature {
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .feature-list {
@@ -237,6 +232,8 @@ margin-left: 93px;
 
 /* Team */
 .team {
+    padding-top: 94px;
+    padding-bottom: 94px;
     background-color: var(--secondary-bg-colour);
 }
 
@@ -331,6 +328,8 @@ address {
 
 /* Button */
 .portfolio {
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .button-nav {
