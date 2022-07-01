@@ -98,6 +98,12 @@ font-size: 14px;
     height: 80px;
 }
 
+.main-nav-container {
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
 .site-nav {
 display: flex;
 margin-left: 93px;
